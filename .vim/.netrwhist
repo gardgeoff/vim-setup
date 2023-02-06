@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/gardgeoff95/sail-test'
+let g:netrw_dirhist_7='/home/gardgeoff95/sail-test/app/Http/Controllers'
+let g:netrw_dirhist_6='/home/gardgeoff95/sail-test'
+let g:netrw_dirhist_5='/home/gardgeoff95/sail-test/resources/views'
+let g:netrw_dirhist_4='/home/gardgeoff95/sail-test/app/Http/Controllers'
+let g:netrw_dirhist_3='/home/gardgeoff95/sail-test'
+let g:netrw_dirhist_2='/home/gardgeoff95/sail-test/bootstrap'
+let g:netrw_dirhist_1='/home/gardgeoff95/sail-test'
+let g:netrw_dirhist_0='/home/gardgeoff95'
+let g:netrw_dirhist_9='/home/gardgeoff95/sail-test/routes'
